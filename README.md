@@ -1,9 +1,6 @@
 # 会动的皮卡丘
 
-# 预览方式
-
-输入
+### 运行：
 ```
- parcel src/test.html
+parcel src/test.html
 ```
-
